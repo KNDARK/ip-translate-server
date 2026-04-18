@@ -1,2 +1,2 @@
-DESKTOP-0O28RBP-38410993|https://oak-apt-joshua-emphasis.trycloudflare.com/api/translate/status
+DESKTOP-0O28RBP-38410993|https://oak-apt-joshua-emphasis.trycloudflare.com/api/videos/recent?limit=40&offset=0
 Admin-PC-761bfbc2|https://container-organized-operators-mazda.trycloudflare.com
